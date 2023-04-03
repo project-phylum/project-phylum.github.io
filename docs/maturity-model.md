@@ -11,14 +11,14 @@
     </tr>
   </thead>
   <tbody>
-    {% for row in site.data.maturity-model %}
+    {% for facet in site.data.maturity-model %}
     <tr>
-      <td>{{ row.facet }}</td>
-      <td>{{ row.lvl0 }}</td>
-      <td>{{ row.lvl1 }}</td>
-      <td>{{ row.lvl2 }}</td>
-      <td>{{ row.lvl3 }}</td>
-      <td>{{ row.comments }}</td>
+      <td>{{ facet.name }}</td>
+      <td>{{ facet.lvl0 }}</td>
+      <td>{{ facet.lvl1 }}</td>
+      <td>{{ facet.lvl2 }}</td>
+      <td>{{ facet.lvl3 }}</td>
+      <td>{{ facet.comments }}</td>
     </tr>
     {% endfor %}
   </tbody>
