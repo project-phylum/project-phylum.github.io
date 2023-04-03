@@ -17,6 +17,7 @@
       <td>{{ row.lvl0 }}</td>
       <td>{{ row.lvl1 }}</td>
       <td>{{ row.lvl2 }}</td>
+      <td>{{ row.lvl3 }}</td>
       <td>{{ row.comments }}</td>
     </tr>
     {% endfor %}
