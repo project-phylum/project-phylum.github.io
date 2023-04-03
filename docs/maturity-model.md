@@ -1,3 +1,8 @@
+---
+title: Maturity Model
+
+---
+
 <table>
   <thead>
     <tr>
