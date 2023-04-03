@@ -3,7 +3,7 @@ title: Maturity Model
 
 ---
 
-<table style="width: 100%">
+<table width="100%">
   <thead>
     <tr>
       <th></th>
