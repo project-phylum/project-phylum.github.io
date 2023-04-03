@@ -7,7 +7,7 @@
       <th>Level 1</th>
       <th>Level 2</th>
       <th>Level 3</th>
-      <th>Comments></th>
+      <th>Comments</th>
     </tr>
   </thead>
   <tbody>
