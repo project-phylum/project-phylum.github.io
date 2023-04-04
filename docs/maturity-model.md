@@ -5,6 +5,8 @@ title: Maturity Model
 
 # Maturity Model
 
+A maturity model is a tool that helps people assess the current effectiveness of a person or group and supports figuring out what capabilities they need to acquire next in order to improve their performance.[^1]
+
 ## Forming Relationships
 
 <table>
@@ -31,3 +33,5 @@ title: Maturity Model
     {% endfor %}
   </tbody>
 </table>
+
+[^1]: https://martinfowler.com/bliki/MaturityModel.html#:~:text=A%20maturity%20model%20is%20a,order%20to%20improve%20their%20performance.
