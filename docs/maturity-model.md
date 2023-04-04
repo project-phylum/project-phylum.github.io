@@ -5,7 +5,9 @@ title: Maturity Model
 
 # Maturity Model
 
-A maturity model is a tool that helps people assess the current effectiveness of a person or group and supports figuring out what capabilities they need to acquire next in order to improve their performance.[^1]
+> A maturity model is a tool that helps people assess the current effectiveness of a person or group and supports figuring out what capabilities they need to acquire next in order to improve their performance.[^1]
+
+In this context, a maturity model provides a self-assessment tool for individuals as they navigate non-monogamous relationships.
 
 ## Forming Relationships
 
