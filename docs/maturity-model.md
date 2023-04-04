@@ -3,6 +3,10 @@ title: Maturity Model
 
 ---
 
+# Maturity Model
+
+## Forming Relationships
+
 <table>
   <thead>
     <tr>
