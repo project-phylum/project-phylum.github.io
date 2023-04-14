@@ -35,7 +35,7 @@ In this context, a maturity model provides a self-assessment tool for individual
       <td>
         <ul>
         {% for tool in facet.tools %}
-          <li>{{tool}}</li>
+          <li><a href="{{tool.link}}">{{tool.title}}</a></li>
         {% endfor %}
         </ul>
       </td>
