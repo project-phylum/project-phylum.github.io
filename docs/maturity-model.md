@@ -38,7 +38,7 @@ In this context, a maturity model provides a self-assessment tool for individual
           <li>{{tool}}</li>
         {% end for %}
         </ul>
-      <td>
+      </td>
     </tr>
     {% endfor %}
   </tbody>
