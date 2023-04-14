@@ -20,6 +20,7 @@ In this context, a maturity model provides a self-assessment tool for individual
       <th>Level 2</th>
       <th>Level 3</th>
       <th>Comments</th>
+      <th>Tools</th>
     </tr>
   </thead>
   <tbody>
@@ -31,6 +32,13 @@ In this context, a maturity model provides a self-assessment tool for individual
       <td>{{ facet.lvl2 }}</td>
       <td>{{ facet.lvl3 }}</td>
       <td>{{ facet.comments }}</td>
+      <td>
+        <ul>
+        {% for tool in facet.tools %}
+          <li>{{tool}}</li>
+        {% end for %}
+        </ul>
+      <td>
     </tr>
     {% endfor %}
   </tbody>
